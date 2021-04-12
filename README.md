@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi 👋, 
+I'm Daniel, I'm a Back-end developer 👨‍💻 who is passionate about JVM technologies and its entire ecosystem. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-InseongJang&show_icons=true&theme=radical)
 
