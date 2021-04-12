@@ -1,5 +1,5 @@
 ## Hi 👋, 
-I'm Daniel, I'm a Back-end developer 👨‍💻 who is passionate about BackEnd technologies and its entire ecosystem. 
+I'm Daniel, I'm a BackEnd developer 👨‍💻 who is passionate about BackEnd technologies and its entire ecosystem. 
 
 
 - 🔭 I’m currently working on Java apps/systems
