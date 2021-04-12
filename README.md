@@ -3,9 +3,7 @@ I'm Daniel, I'm a Back-end developer 👨‍💻 who is passionate about BackEnd
 
 
 - 🔭 I’m currently working on Java apps/systems
-- 🌱 I’m currently learning NestJS, DevOps and of course JS improvements
-- 💬 Ask me about: tech, karate, anime and a little bit about investments.
--  ⚡ Technologies: React, Node, React-Native
+- 🌱 I’m currently learning Spring and of course Java improvements
 
 "Do not expect from others what you expect of yourself." 
 
